@@ -1,4 +1,4 @@
-# Belajar Go (Golang)
+# Belajar Go
 
 Selamat datang di repositori belajar Go! Di sini Anda akan menemukan panduan dan sumber daya untuk memulai perjalanan Anda dalam mempelajari bahasa pemrograman Go (Golang).
 
