@@ -23,7 +23,7 @@ Untuk mulai menggunakan Go, Anda perlu menginstalnya di komputer Anda. Ikuti lan
 - **macOS**: Anda bisa menggunakan Homebrew dengan perintah `brew install go`.
 - **Linux**: Gunakan perintah paket seperti `sudo apt install golang` (Ubuntu) atau ikuti petunjuk di [situs resmi Go](https://golang.org/doc/install).
 
-### 2. Menulis Program Go Pertama Anda
+### 2. Code Go Pertama Anda
 
 Setelah Go terinstal, buat file baru dengan nama `hello.go` dan tulis kode berikut:
 
